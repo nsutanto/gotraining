@@ -33,7 +33,7 @@ func main() {
 		name string
 		age int
 	}{
-		name: "Nicholas Sutanto",
+		name: "Nicholas",
 		age: 20,
 	}
 
