@@ -10,8 +10,6 @@ package main
 
 import "fmt"
 
-// Add imports.
-
 func main() {
 
 	// Declare an array of 5 strings set to its zero value.
