@@ -11,8 +11,6 @@ package main
 
 import "fmt"
 
-// Add imports
-
 // main is the entry point for the application.
 func main() {
 
