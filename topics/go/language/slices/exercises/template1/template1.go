@@ -11,8 +11,6 @@ package main
 
 import "fmt"
 
-// Add imports.
-
 func main() {
 
 	// Declare a nil slice of integers.
