@@ -11,13 +11,10 @@ package main
 
 import "fmt"
 
-// Add imports.
-
 func main() {
 
 	// Declare an integer variable with the value of 20.
 	value := 20
-
 
 	// Display the address of and value of the variable.
 	fmt.Println("Address Of:", &value, "Value Of:", value)
