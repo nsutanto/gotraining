@@ -49,12 +49,12 @@ func main() {
 
 	// Iterate receiving each value until they are all received.
 	// Store them in a slice of ints.
-	var nums []int
+	var numbers []int
 	for wait > 0 {
-		nums = append(nums, <-values)
+		numbers = append(numbers, <-values)
 		wait--
 	}
 
 	// Print the values in our slice.
-	fmt.Println(nums)
+	fmt.Println(numbers)
 }
